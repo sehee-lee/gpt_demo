@@ -30,7 +30,7 @@ const Gpt = () => {
 
     const requsetGptApi = async () => {
         const gptEndPoint = "https://api.openai.com/v1/completions"
-        const key = "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"
+        const key = "yourkey"
 
         setLoading(true)
 
